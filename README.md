@@ -6,7 +6,7 @@ Meu nome é Carlos. Sou estudante de Ciência da Computação e um apaixonado po
 Atualmente estudo a stack Node.js, React e React Native. Clicando [aqui](https://github.com/cacajr/Estudando-Stack) você pode acompanhar um pouco do meu aprendizado na prática e também em outros repositórios no meu perfil.
 
 ## Acadêmico
-Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Clicando [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) você poderá ver do código fonte do trabalho que foi desenvolvido em Python e os respectivos testes.
+Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Clicando [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) você poderá ver do código fonte do trabalho e os respectivos testes que foram feitos em Python.
 
 # Contatos :mailbox_with_mail:
 Para mais informações como minha experiência profissional, tecnologias que já trabalhei e mais, visite meu perfil ou entre em contato.
