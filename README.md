@@ -1,5 +1,5 @@
 # Olá  :wave:
-Meu nome é Carlos. Sou estudante de Ciência da Computação e um apaixonado por tecnologia, ainda mais quando tem uma pitada de ciência 😁.
+Meu nome é Carlos. Sou formado em Ciência da Computação e um apaixonado por tecnologia 😁.
 
 # Estudos :book:
 ## Tecnologia
