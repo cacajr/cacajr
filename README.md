@@ -1,8 +1,8 @@
 # Olá  :wave:
-Meu nome é Carlos. Sou formado em Ciência da Computação e um apaixonado por tecnologia 😁.
+Sou graduado e mestrando em Ciência da Computação. Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na explicação de modelos. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
 
 # Estudos :book:
-## Tecnologia
+## Tecnologias
 Atualmente estudo a stack Node.js, React e React Native. Clicando [aqui](https://github.com/cacajr/Estudando-Stack) você pode acompanhar um pouco do meu aprendizado na prática e também em outros repositórios no meu perfil. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina.
 
 ## Acadêmico
