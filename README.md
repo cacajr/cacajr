@@ -3,7 +3,7 @@ Sou graduado e mestrando em Ciência da Computação. Atualmente efetuo pesquisa
 
 # Estudos :book:
 ## Tecnologias
-Atualmente estudo a stack Node.js, React e React Native. Clicando [aqui](https://github.com/cacajr/Estudando-Stack) você pode acompanhar um pouco do meu aprendizado na prática e também em outros repositórios no meu perfil. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina.
+Atualmente estudo a stack Node.js, React e React Native. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina. Você pode acompanhar um pouco dos meus estudos na prática em repositórios no meu perfil.
 
 ## Acadêmico
 Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Clicando [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) você poderá ver o código fonte do trabalho e os respectivos testes que foram feitos em Python.
