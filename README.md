@@ -1,12 +1,12 @@
 # Olá  :wave:
-Sou graduado e mestrando em Ciência da Computação. Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na explicação de modelos. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
+Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na explicação de modelos. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁. Inclusive trabalho ensinando e criando conteúdo para algumas delas: Node.js e React.js.
 
 # Estudos :book:
 ## Tecnologias
-Atualmente estudo a stack Node.js, React e React Native. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina. Você pode acompanhar um pouco dos meus estudos na prática em repositórios no meu perfil.
+Atualmente estudo a stack Node.js, React.js e React Native. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina. Você pode acompanhar um pouco dos meus estudos na prática em repositórios no meu perfil.
 
 ## Acadêmico
-Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Clicando [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) você poderá ver o código fonte do trabalho e os respectivos testes que foram feitos em Python.
+Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Esse trabalho foi publicado no Congresso Brasileiro de Automática ([CBA 2022](https://www.sba.org.br/cba2022/)). Clicando [aqui](https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_7856.pdf) vocẽ encontra o paper e [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) o código fonte com seus respectivos testes desenvolvidos em Python.
 
 # Contatos :mailbox_with_mail:
 Para mais informações como minha experiência profissional, tecnologias que já trabalhei e mais, visite meu perfil ou entre em contato.
