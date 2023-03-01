@@ -1,5 +1,5 @@
 # Olá  :wave:
-Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na explicação de modelos. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁. Inclusive trabalho ensinando e criando conteúdo para algumas delas: Node.js e React.js.
+Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na criação de modelos de classificação explicáveis. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁. Inclusive trabalho ensinando e criando conteúdo para algumas delas: Node.js e React.js.
 
 # Estudos :book:
 ## Tecnologias
