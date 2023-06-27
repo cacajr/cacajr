@@ -11,4 +11,4 @@ Desenvolvi um trabalho científico que se enquadra na área de Lógica da Comput
 # Contatos :mailbox_with_mail:
 Para mais informações sobre minha experiência profissional, tecnologias que já trabalhei e mais, visite meu perfil ou entre em contato.
 
-[![Linkedin](https://img.shields.io/badge/-Carlos%20Júnior-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-j%C3%BAnior-b6318a193/)](https://www.linkedin.com/in/carlos-j%C3%BAnior-b6318a193/) [![Hotmail](https://img.shields.io/badge/-realcarlos7@hotmail.com-0078d4?style=flat&logo=Microsoft%20Outlook&logoColor=white&link=mailto:realcarlos7@hotmail.com)](mailto:realcarlos7@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-Carlos%20Júnior-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-j%C3%BAnior-b6318a193/)](https://www.linkedin.com/in/cacajr/) [![Hotmail](https://img.shields.io/badge/-realcarlos7@hotmail.com-0078d4?style=flat&logo=Microsoft%20Outlook&logoColor=white&link=mailto:realcarlos7@hotmail.com)](mailto:realcarlos7@hotmail.com)
