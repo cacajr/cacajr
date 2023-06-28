@@ -6,7 +6,7 @@ Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de E
 Atualmente estudo a stack Node.js, React.js e React Native. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina. Você pode acompanhar um pouco dos meus estudos na prática em repositórios no meu perfil.
 
 ## Acadêmico
-Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Esse trabalho foi publicado no Congresso Brasileiro de Automática ([SBA](https://www.sba.org.br/)) em 2022. Clicando [aqui](https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_7856.pdf) você encontra o paper e [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) o código fonte com seus respectivos testes desenvolvidos em Python.
+Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Esse trabalho foi publicado na Sociedade Brasileiro de Automática ([SBA](https://www.sba.org.br/)) em 2022. Clicando [aqui](https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_7856.pdf) você encontra o paper e [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) o código fonte com seus respectivos testes desenvolvidos em Python.
 
 # Contatos :mailbox_with_mail:
 Para mais informações sobre minha experiência profissional, tecnologias que já trabalhei e mais, visite meu perfil ou entre em contato.
