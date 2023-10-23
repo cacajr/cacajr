@@ -1,12 +1,12 @@
 # Olá  :wave:
-Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente efetuo pesquisas e trabalhos na área de aprendizado de máquina, mais precisamente na criação de modelos de classificação explicáveis. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
+Sou graduado e mestrando em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente efetuo pesquisas e trabalhos na área de Aprendizado de Máquina, mais precisamente na criação de modelos de classificação interpretáveis. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
 
 # Estudos :book:
 ## Tecnologias
-Atualmente estudo a stack Node.js, React.js e React Native. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina. Você pode acompanhar um pouco dos meus estudos na prática em repositórios no meu perfil.
+Atualmente estudo Node.js, React.js, Java e R. Além disso, trabalho com Python desenvolvendo e aprimorando modelos de aprendizado de máquina.
 
 ## Acadêmico
-Desenvolvi um trabalho científico que se enquadra na área de Lógica da Computação e Inteligência Artificial. O trabalho consistiu na criação de duas modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Esse trabalho foi publicado na Sociedade Brasileiro de Automática ([SBA](https://www.sba.org.br/)) em 2022. Clicando [aqui](https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_7856.pdf) você encontra o paper e [aqui](https://github.com/cacajr/Abordagens-Para-Aprendizado-de-Regras-de-Classificacao-Interpretavel) o código fonte com seus respectivos testes desenvolvidos em Python.
+Desenvolvi trabalhos científicos que se enquadram na área de Inteligência Artificial e Lógica da Computação. Os trabalhos consistiram na criação de três modelagens incrementais baseadas no MaxSAT para aprendizado de regras interpretáveis. Duas delas foram apresentadas em formato de artigo científico, sendo um dos artigos publicado na Sociedade Brasileiro de Automática ([SBA](https://www.sba.org.br/)) em 2022 e o outro na 12th Brazilian Conference on Intelligent Systems ([BRACIS](https://www.bracis.dcc.ufmg.br/)) em 2023. Você pode encontrar os respectivos trabalhos clicando [aqui](https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_7856.pdf) e [aqui](https://link.springer.com/chapter/10.1007/978-3-031-45368-7_15). O repositório com todos os modelos desenvolvidos e também com os modelos que ainda estão sendo desenvolvidos se encontra [aqui](https://github.com/cacajr/decision_set_models).
 
 # Contatos :mailbox_with_mail:
 Para mais informações sobre minha experiência profissional, tecnologias que já trabalhei e mais, visite meu perfil ou entre em contato.
