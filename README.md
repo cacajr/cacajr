@@ -1,5 +1,5 @@
 # Olá  :wave:
-Sou graduado e mestre em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente sou doutorando e efetuo pesquisas na área de Aprendizado de Máquina, mais precisamente na criação de modelos de classificação interpretáveis. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
+Sou graduado e mestre em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Atualmente sou doutorando na Universidade Federal do Ceará (UFC) e efetuo pesquisas na área de Aprendizado de Máquina, mais precisamente na criação de modelos de classificação interpretáveis. Além disso, sou um apaixonado por tecnologias utilizadas para desenvolvimento web e mobile 😁.
 
 # Estudos :book:
 ## Tecnologias
